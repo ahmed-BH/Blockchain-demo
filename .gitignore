@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+files/
+*.odt
+*.pptx
+
+utils/keys/
+*.pem
+
+# C extensions
+*.so
