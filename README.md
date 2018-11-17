@@ -1,7 +1,7 @@
 # Blockchain-demo
 
 Blockchain-demo is an implemtation of the blockchain-data-structure and a small simulation how the blockchain
-works.
+works.See [wiki section](https://github.com/ahmed-BH/Blockchain-demo/wiki/Blockchain-useful-information) for more details
 
 ### Prerequisites
 
